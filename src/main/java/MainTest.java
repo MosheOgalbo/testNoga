@@ -26,6 +26,6 @@ public class MainTest {
 
         // 5
         Tests.task5(driver,wait);
-//driver.close();
+   driver.close();
     };
 };
